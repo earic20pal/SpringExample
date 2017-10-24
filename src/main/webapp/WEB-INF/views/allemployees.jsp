@@ -34,5 +34,6 @@
 	</table>
 	<br/>
 	<a href="<c:url value='/new' />">Add New Employee</a>
+	//http://websystique.com/springmvc/spring-4-mvc-and-hibernate4-integration-example-using-annotations/ GET DB FROM HERE
 </body>
 </html>
